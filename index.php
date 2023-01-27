@@ -1,5 +1,6 @@
 <?php
 
-echo "Meu primeiro código <strong>PHP! Olá mundo!</strong>";
+echo "Meu primeiro código <strong>PHP! Olá mundo 111!</strong>";
 
+echo "Olá animais"
 ?>
